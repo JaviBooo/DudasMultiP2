@@ -1,0 +1,144 @@
+MMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMTTMMMMMMMMMMMM
+MMMMMMMMMMMTLTMMMMMMMMMMM
+MMMTMMTTTTTTTTTMMMMMMMMMM
+MTTTTTTTTTTTTTTTTMMMMMMMM
+MMLTMMMMMTTTTTTTTTTMMMMMM
+MMMMMMMMMTTTTTTTTTTTMMMMM
+MMMMMMMMMTTTTTTTTLMMMMMMM
+MMMMMMMMMTTTTTTTTTMMMMMMM
+MMMMMMMMMTTTTTLTTTMMMMMMM
+MMMMMMMMMTTTTTTMMMMMMMMMM
+MMMMMMMMMMTTTTMMMMMMMMMMM
+MMMMMMMMMMTTTLTMMMMMMMMMM
+MMMMMMMMMMTTTTTTMMMMMMMMM
+MMMMMMMMMMMTTTTTMMMMMMMMM
+MMMMMMMMMMMTTTTTTMMMMMMMM
+MMMMMMMMMMMMTTLTTMMMMMMMM
+MMMMMMMMMMMTTTMMMMMMMMMMM
+MMMMMMMMMMLTTMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMM
+62-Fonyite-(2,12)
+1 0 2 0 1 
+
+414-Miutu Shini-(16,14)
+1 1 1 1 1 
+
+127-Sal Udos-(5,2)
+1 4 0 0 1 
+
+239-Ja Ja-(9,14)
+6 6 0 0 0 
+
+192-Dale Carla-(7,17)
+2 0 1 0 1 
+
+460-Fetiche-(18,10)
+1 0 1 1 1 
+
+313-Cocidico Weno-(12,13)
+0 0 0 0 1 
+
+------------------
+CONSTRUCTORES: 
+p1: Fonyite
+
+p2: Miutu Shini
+
+p3: Sal Udos
+
+
+p1: Fonyite
+
+p2: Fonyite
+
+p3: Miutu Shini
+
+
+p1: Miutu Shini
+
+p2: Fonyite
+
+p3: Miutu Shini
+
+
+------------------
+CALCULA CERCANAS: 
+p1: Miutu Shini
+
+p2: Fonyite
+Ja Ja (9)
+Dale Carla (10)
+Cocidico Weno (11)
+Sal Udos (13)
+Miutu Shini (16)
+Fetiche (18)
+
+p3: Miutu Shini
+
+
+p1: Miutu Shini
+Cocidico Weno (5)
+Fetiche (6)
+Ja Ja (7)
+
+p2: Fonyite
+
+p3: Miutu Shini
+Cocidico Weno (5)
+Fetiche (6)
+Ja Ja (7)
+
+
+------------------
+BORRA LOCALIDAD: 
+p1: Miutu Shini
+Cocidico Weno (5)
+Fetiche (6)
+Ja Ja (7)
+
+p2: Fonyite
+
+p3: Miutu Shini
+Cocidico Weno (5)
+Ja Ja (7)
+
+
+p1: Miutu Shini
+Fetiche (6)
+Ja Ja (7)
+
+p2: Fonyite
+
+p3: Miutu Shini
+Cocidico Weno (5)
+
+
+------------------
+GET CERCANAS: 
+p1: Fetiche (6)
+Ja Ja (7)
+
+p2: 
+p3: Cocidico Weno (5)
+
+
+------------------
+GET COSTERA: 
+p1: Fetiche
+p2: no hay ninguna localidad costera
+p3: no hay ninguna localidad costera
+
+------------------
+GET COSTERAS: 
+p1: Fetiche (6)
+
+p2: 
+p3: 
+
+------------------
+GET CON AEROPUERTO: 
+p1: propio
+p2: propio
+p3: propio
+

@@ -1,0 +1,228 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMLLLLTTTTTTTTTTTTTTLMMMMMMM
+MMMMTTLTTTTTTTTTTTTTTTTTTTTTTMMMM
+MMTTTTTTLTTTTTTTTTTTTTTTTTTTTTTMM
+MTTTTTTMMMMMMTTTTTTTTMMMMMMTTTTTM
+MTTTMMMMTTTMMMTTTTTTMMMTTTMMMMTTM
+MTTTMMMTTMTTMMTTTTTTMMTTMTTMMMTTM
+MMTTTMMMMMMMMTTTMMTTTMMMMMMMMTTMM
+MMMTTTTTTMMMTTTMMMMTTTMMMTTTTTMMM
+MMTTTTTMMTTTTTTMMMMTTTTTTTMMTTTMM
+MMTTTMMMTMMMMMMMMMMMMMMMMMMMMTTMM
+MMMTTTTTMMMTTMTTMTTTMTTMMMTTTTMMM
+MMMMMTTTTTTMMMMMMMMMMMMMTTTTMMMMM
+MMMMMMMMMMMTTTTTLTTTTTTMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+72-Sasn-(2,6)
+1 2 1 0 0 
+
+40-Sasn1-(1,7)
+1 2 1 0 0 
+
+41-Sasn2-(1,8)
+1 2 1 0 0 
+
+42-Sasn3-(1,9)
+1 2 1 0 0 
+
+43-Sasn4-(1,10)
+1 2 1 0 0 
+
+107-Sasn5-(3,8)
+1 2 1 0 0 
+
+58-Sasn6-(1,25)
+1 2 1 0 0 
+
+445-Enio-(13,16)
+1 2 1 0 1 
+
+------------------
+CONSTRUCTORES: 
+p1: Sasn
+
+p2: Sasn1
+
+p3: Sasn2
+
+
+p1: Sasn
+
+p2: Sasn
+
+p3: Sasn1
+
+
+p1: Sasn1
+
+p2: Sasn
+
+p3: Sasn1
+
+
+------------------
+CALCULA CERCANAS: 
+p1: Sasn1
+Sasn2 (1)
+
+p2: Sasn
+Sasn1 (2)
+Sasn2 (3)
+Sasn5 (3)
+Sasn3 (4)
+Sasn4 (5)
+Sasn6 (20)
+Enio (21)
+
+p3: Sasn1
+
+
+p1: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+p2: Sasn
+
+p3: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+
+p1: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+p2: Sasn
+Sasn1 (2)
+Sasn2 (3)
+Sasn5 (3)
+Sasn3 (4)
+Sasn4 (5)
+Sasn6 (20)
+Enio (21)
+
+p3: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+
+------------------
+BORRA LOCALIDAD: 
+p1: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+p2: Sasn
+Sasn1 (2)
+Sasn2 (3)
+Sasn5 (3)
+Sasn3 (4)
+Sasn4 (5)
+Sasn6 (20)
+Enio (21)
+
+p3: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+
+p1: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+p2: Sasn
+Sasn1 (2)
+Sasn2 (3)
+Sasn5 (3)
+Sasn3 (4)
+Sasn4 (5)
+Sasn6 (20)
+Enio (21)
+
+p3: Sasn1
+Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+
+------------------
+GET CERCANAS: 
+p1: Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+p2: Sasn1 (2)
+Sasn2 (3)
+Sasn5 (3)
+Sasn3 (4)
+Sasn4 (5)
+Sasn6 (20)
+Enio (21)
+
+p3: Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+
+------------------
+GET COSTERA: 
+p1: Sasn2
+p2: Sasn1
+p3: Sasn2
+
+------------------
+GET COSTERAS: 
+p1: Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+p2: Sasn1 (2)
+Sasn2 (3)
+Sasn5 (3)
+Sasn3 (4)
+Sasn4 (5)
+Sasn6 (20)
+Enio (21)
+
+p3: Sasn2 (1)
+Sasn (2)
+Sasn3 (2)
+Sasn4 (3)
+Sasn5 (3)
+
+
+------------------
+GET CON AEROPUERTO: 
+p1: sin aeropuerto
+p2: Enio
+p3: sin aeropuerto
+
