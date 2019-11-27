@@ -1,0 +1,19 @@
+Lista antes de mandarla a modificar:
+Chungus (2)
+Lentejas (4)
+Salchichon (12)
+Arquitectura (24)
+Eclipse Best IDE (72)
+
+Lista despues de mandarla a modificar:
+Chungus (2)
+Lentejas (4)
+Insertada2 (5)
+Salchichon (12)
+Arquitectura (24)
+
+Lista despues de borrar una localidad directamente:
+Lentejas (4)
+Salchichon (12)
+Arquitectura (24)
+Eclipse Best IDE (72)

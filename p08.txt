@@ -1,0 +1,36 @@
+*************Listas antes de la igualacion*************
+Lista 1: 
+URSS (0)
+URSS (2)
+URSS (4)
+URSS (6)
+
+Lista 2: 
+URSS (2)
+URSS (5)
+URSS (8)
+Chernobyl (11)
+
+*************Listas despues de la igualacion*************
+Lista 1: 
+URSS (2)
+URSS (5)
+URSS (8)
+Chernobyl (11)
+
+Lista 2: 
+URSS (2)
+URSS (5)
+URSS (8)
+Chernobyl (11)
+
+*************Listas despues de los borrados*************
+Lista 1: 
+URSS (5)
+URSS (8)
+
+Lista 2: 
+URSS (5)
+URSS (8)
+Chernobyl (11)
+
